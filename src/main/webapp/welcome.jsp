@@ -24,7 +24,7 @@
 	</span>
 </div>
 <hr>
-<p style="text-align: center;">Gensogram - Consultant, Training, Development Center.</p>
-<p style="text-align: center;"><small>Copyrights 2022 by <a href="https://gensogram.com/">Gensogram</a> </small></p>
+<p style="text-align: center;">Gensogram - DevOps Training</p>
+<p style="text-align: center;"><small>Copyrights 2024 by <a href="https://gensogram.com/">Gensogram</a> </small></p>
 </body>
 </html>
